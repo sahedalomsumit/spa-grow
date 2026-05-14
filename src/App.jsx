@@ -57,6 +57,7 @@ const navLinks = [
   { name: "PROCESS", href: "#process" },
   { name: "PROBLEM", href: "#problem" },
   { name: "SOLUTION", href: "#solution" },
+  { name: "FORM", href: "#audit" },
   { name: "ABOUT", href: "#about" },
 ];
 
